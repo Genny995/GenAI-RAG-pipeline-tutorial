@@ -1,0 +1,25 @@
+#env "genai"
+langchain
+langchain_community
+ipykernel
+python-dotenv
+pypdf
+beautifulsoup4
+arxiv
+pymupdf
+wikipedia
+langchain-text-splitters
+langchain_huggingface
+chromadb
+sentence_transformers
+faiss-cpu
+langchain_chroma
+streamlit
+langchain-groq
+langchain-openai
+duckduckgo-search
+langserve
+fastapi
+duckdb
+pandas
+openai
